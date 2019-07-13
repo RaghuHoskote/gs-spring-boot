@@ -86,8 +86,7 @@
                     </resources>
                 </configuration>
             </plugin>
-        </plugins>
-        </plugins>
+          </plugins>
     </build>
 
 </project>
